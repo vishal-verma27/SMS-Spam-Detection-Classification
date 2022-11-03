@@ -12,6 +12,7 @@ Get Predictions-
 **base_URL/smsPredict/claim your free gift worth $200**
 
 **Output**
+
 {
   "confidence": {
     "ham": 2.6515678832805816e-06,
